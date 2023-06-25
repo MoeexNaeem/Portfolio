@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+
+.hero {
+    background: #ffff;
+    min-height: 100vh;
+    position: relative;
+    width: 100%;
+  }
+  .first_heading{
+    color: #6D7379;
+    font-size: 25px;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+  }
+  .second_heading{
+    font-size: 60px;
+    color: #495057;
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+  }
+  .third_heading{
+    font-size: 20px;
+    color: #6D7379;
+    font-family: 'Poppins', sans-serif;
+    font-weight: light;
+  }
+  .hire_me{
+    margin-right: 10px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    font-size: small;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    width: 6rem;
+    height: 2.7rem;
+    border-radius: 22px;
+    background-color: #FF7A57;
+    color: #fff;
+    border: transparent;
+    transition: 0.5s;
+  }
+  .hire_me:hover{
+    margin-right: 10px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    font-size: small;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    width: 6rem;
+    height: 2.7rem;
+    border-radius: 22px;
+    background-color: #f56643;
+    color: #fff;
+    border: transparent;
+    transition: 0.5s;
+  }
+  .download_cv{
+    margin-right: 10px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    font-size: small;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    width: 8rem;
+    height: 2.7rem;
+    border-radius: 22px;
+    background-color: #3c3f42;
+    color: #fff;
+    border: transparent;
+    transition: 0.5s;
+  }
+  .download_cv:hover{
+    margin-right: 10px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    font-size: small;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    width: 8rem;
+    height: 2.7rem;
+    border-radius: 22px;
+    background-color: #23272B;
+    color: #fff;
+    border: transparent;
+    transition: 0.5s;
+  }
+  .style_icon{
+    background-color:  #ffff;
+    color: #f56643;
+    border-radius: 20px;
+    border: #f56643 solid 2px;
+    width: 2.5rem;
+    height: 2.5rem;
+    transition: 0.2s;
+    margin-right: 8px;
+    margin-top: 20px;
+  }
+  .style_icon:hover{
+    background-color:  #f56643;
+    color: #ffff;
+    border-radius: 20px;
+    border: #f56643 solid;
+    width: 2.5rem;
+    height: 2.5rem;
+    transition: 0.2s;
+    margin-right: 8px;
+    margin-top: 10px;
+  }

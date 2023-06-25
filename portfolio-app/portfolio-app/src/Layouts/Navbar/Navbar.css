@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+  
+  /* background: #4163a8; */
+/*.......................NavBar Start...............*/
+.navbar{
+   position: relative;
+   background-color:#FFFFFF ;
+   width: 100%;
+   position: sticky;
+   top: 0;
+}
+.nav-item .nav-link{
+   margin-right: 12px;
+   font-family: 'Poppins', sans-serif;
+   font-weight: 500;
+   font-size: small;
+   margin-top: 15px;
+   margin-bottom: 10px;
+   color: #6D7379;
+}
+.nav-button .nav-login{
+   margin-right: 50px;
+   font-family: 'Poppins', sans-serif;
+   font-weight: bold;
+   font-size: small;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   width: 8rem;
+   height: 2.7rem;
+   border-radius: 22px;
+   margin-left: 30px;
+   background-color: #FF7A57;
+   color: #fff;
+   border: transparent;
+   transition: 0.5s;
+}
+.nav-button .nav-login:hover{
+   margin-right: 50px;
+   font-family: 'Poppins', sans-serif;
+   font-weight: bold;
+   font-size: small;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   width: 8rem;
+   height: 2.7rem;
+   border-radius: 22px;
+   margin-left: 30px;
+   background-color: #f56643;
+   color: #fff;
+   border: transparent;
+   transition: 0.5s;
+}

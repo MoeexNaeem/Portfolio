@@ -1,0 +1,39 @@
+.skills {
+    background: #ffff;
+    min-height: 50vh;
+    position: relative;
+    width: 100%;
+    padding-top: 50px;
+  }
+  .skills_heading{
+    color: #6D7379;
+    font-size: 20px;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+  }
+  .other_heading{
+    color: #343A40;
+    font-size: 14px;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+  }
+  .skills_paragraph{
+    margin-left: 11rem;
+    margin-right: 11rem;
+    font-size: 13px;
+    font-family: 'Poppins', sans-serif;
+    color: #6D7379;
+  }
+  .grides-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1rem;
+  }
+  .span_editing{
+    font-family: 'Poppins', sans-serif;
+    color: #6D7379;
+    font-size: 15px;
+  }
+  .progress-bars {
+    background-color: #FF7A57;/* Change this to the desired color */
+  }

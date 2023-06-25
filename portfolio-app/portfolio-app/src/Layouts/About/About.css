@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+
+.hero {
+    background: #ffff;
+    min-height: 50vh;
+    position: relative;
+    width: 100%;
+  }
+  .about_heading{
+    color: #6D7379;
+    font-size: 20px;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+  }
+  .about_image{
+    max-width: 100%;
+    max-height: 100%;
+    margin-left: 10rem;
+    margin-bottom:8rem ;
+    border-radius: 8px;
+  }
+  .about_paragraph{
+    font-size: 16px;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+    color: #6D7379;
+    margin-left: 8rem;
+    margin-top: 0.8rem;
+  }
+  .heading_about{
+    margin-left: 8rem;
+  }
+  .about_btn{
+    margin-left: 8rem;
+    margin-bottom: 1.8rem;
+    margin-top: 1rem;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    font-size: small;
+    width: 8rem;
+    height: 2.7rem;
+    border-radius: 22px;
+    background-color: #FF7A57;
+    color: #fff;
+    border: transparent;
+    transition: 0.5s;
+  }
+  .about_btn:hover{
+    margin-left: 8rem;
+    margin-bottom: 1.8rem;
+    margin-top: 1rem;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    font-size: small;
+    width: 8rem;
+    height: 2.7rem;
+    border-radius: 22px;
+    background-color: #f56643;
+    color: #fff;
+    border: transparent;
+    transition: 0.5s;
+  }
